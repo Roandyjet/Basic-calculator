@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+  background-color: aqua;
+}
+#calculator,
+#results {
+  border: 1px solid green;
+  border-radius: 5%;
+  padding: 10px;
+}
